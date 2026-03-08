@@ -1,29 +1,37 @@
+# Lavender-rise-main
+
 ## Compliance Notice / 合规声明
 
-- This repository is provided only for education, reverse engineering research, debugging, and interoperability study.
-- Do not use any code or ideas here for unauthorized access, cheating in online services, privacy invasion, data theft, malware delivery, or service disruption.
-- You must comply with applicable laws, platform Terms of Service, and software/game EULA before any use.
-- If any content infringes your rights, open an issue or contact the maintainer for removal.
-- Full statement: [DISCLAIMER.md](./DISCLAIMER.md)
+- 本仓库仅用于学习、逆向研究、调试分析和兼容性研究。
+- 禁止用于未授权访问、破坏服务、隐私侵害、在线作弊、恶意传播等行为。
+- 使用者需自行遵守当地法律、平台条款与相关 EULA。
+- 完整声明见 [DISCLAIMER.md](./DISCLAIMER.md)
 
 ---
-# Lavender
 
-###### It was my dream client when I was younger, but it was Abandoned a long time ago I shared something in the QQ group The source code is now republished in two versions THANK YOU, THE PEOPLE WHO WORKED WITH ME, THANK YOU LYNN EZDIAOL COMES FROM LOVE
+这是一个历史项目归档仓库，主要用于留档与回顾。
 
----
-#### Start参数
-    -Djava.library.path="$MODULE_DIR$/natives/windows"
+## 仓库内容
 
-#### Run文件用处
-     运行配置中 “工作目录” 改 *\Lavender-rise\run
-     此外你需要自己准备一个 “assets” 文件 这样可以有MC音效和客户端图标
+- `src/`：源码目录
+- `natives/`：本地库目录
+- `long.jpeg`、`long1.jpeg`、`main.png`：历史截图
 
-📂 开源重现
+## 运行参数（历史记录）
 
-#### (https://github.com/EzDiaoL)
-#### (https://github.com/Lynnqwq)
+```text
+-Djava.library.path="$MODULE_DIR$/natives/windows"
+```
 
+## 使用说明（白话）
 
-🖼️ 项目截图
-我附上了三张图片，带你回顾 Lavender 的历史：![long.jpeg](long.jpeg)![long1.jpeg](long1.jpeg)![main.png](main.png)
+这个仓库更多是“历史源码留档”，不是即开即用的成品。
+如果你要本地研究，建议：
+
+1. 先准备完整运行环境和资源文件
+2. 在 IDE 里导入项目后再逐步修复依赖
+3. 仅用于学习交流，不要用于违规用途
+
+## 致谢
+
+仓库保留了项目历史与参与者痕迹，感谢当年一起做项目的朋友。

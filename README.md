@@ -1,3 +1,12 @@
+## Compliance Notice / 合规声明
+
+- This repository is provided only for education, reverse engineering research, debugging, and interoperability study.
+- Do not use any code or ideas here for unauthorized access, cheating in online services, privacy invasion, data theft, malware delivery, or service disruption.
+- You must comply with applicable laws, platform Terms of Service, and software/game EULA before any use.
+- If any content infringes your rights, open an issue or contact the maintainer for removal.
+- Full statement: [DISCLAIMER.md](./DISCLAIMER.md)
+
+---
 # Lavender
 
 ###### It was my dream client when I was younger, but it was Abandoned a long time ago I shared something in the QQ group The source code is now republished in two versions THANK YOU, THE PEOPLE WHO WORKED WITH ME, THANK YOU LYNN EZDIAOL COMES FROM LOVE
